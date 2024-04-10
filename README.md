@@ -71,7 +71,7 @@ plt.show()
 ## Output:
 
 ### Input image and grayscale image :
-![Screenshot 2024-04-10 104110](https://github.com/KameshLeVI/Edge-Linking-using-Hough-Transformm/assets/120780633/d211dd1a-39ab-4e0d-a0b1-101d193c404d)
+![Screenshot 2024-04-10 104703](https://github.com/KameshLeVI/Edge-Linking-using-Hough-Transformm/assets/120780633/1067940c-3aef-4e10-aac8-0472b044295e)
 
 ### Canny Edge detector output :
 ![Screenshot 2024-04-10 104146](https://github.com/KameshLeVI/Edge-Linking-using-Hough-Transformm/assets/120780633/4a163ad1-8292-4fa9-82ff-0c6597e31c14)
