@@ -4,7 +4,6 @@ To write a Python program to detect the lines using Hough Transform.
 
 ## Software Required:
 Anaconda - Python 3.7
-
 ## Algorithm:
 ### Step1:
 Import all the necessary modules for the program.
@@ -67,17 +66,16 @@ plt.title("Result Image")
 plt.axis("off")
 plt.show()
 ```
-
 ## Output:
-
 ### Input image and grayscale image :
 ![Screenshot 2024-04-10 104703](https://github.com/KameshLeVI/Edge-Linking-using-Hough-Transformm/assets/120780633/1067940c-3aef-4e10-aac8-0472b044295e)
-
 ### Canny Edge detector output :
 ![Screenshot 2024-04-10 104146](https://github.com/KameshLeVI/Edge-Linking-using-Hough-Transformm/assets/120780633/4a163ad1-8292-4fa9-82ff-0c6597e31c14)
-
 ### Display the result of Hough transform :
 ![Screenshot 2024-04-10 104225](https://github.com/KameshLeVI/Edge-Linking-using-Hough-Transformm/assets/120780633/a2798d9e-2925-4586-96af-7164af5780cf)
 
+
+
 ## Result:
+
 Thus, the program is written with python and OpenCV to detect lines using Hough transform.
